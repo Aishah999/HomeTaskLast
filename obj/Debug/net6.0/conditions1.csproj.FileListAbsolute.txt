@@ -1,0 +1,15 @@
+/Users/aisha/Projects/conditions1/conditions1/bin/Debug/net6.0/conditions1
+/Users/aisha/Projects/conditions1/conditions1/bin/Debug/net6.0/conditions1.deps.json
+/Users/aisha/Projects/conditions1/conditions1/bin/Debug/net6.0/conditions1.runtimeconfig.json
+/Users/aisha/Projects/conditions1/conditions1/bin/Debug/net6.0/conditions1.dll
+/Users/aisha/Projects/conditions1/conditions1/bin/Debug/net6.0/conditions1.pdb
+/Users/aisha/Projects/conditions1/conditions1/obj/Debug/net6.0/conditions1.csproj.AssemblyReference.cache
+/Users/aisha/Projects/conditions1/conditions1/obj/Debug/net6.0/conditions1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aisha/Projects/conditions1/conditions1/obj/Debug/net6.0/conditions1.AssemblyInfoInputs.cache
+/Users/aisha/Projects/conditions1/conditions1/obj/Debug/net6.0/conditions1.AssemblyInfo.cs
+/Users/aisha/Projects/conditions1/conditions1/obj/Debug/net6.0/conditions1.csproj.CoreCompileInputs.cache
+/Users/aisha/Projects/conditions1/conditions1/obj/Debug/net6.0/conditions1.dll
+/Users/aisha/Projects/conditions1/conditions1/obj/Debug/net6.0/refint/conditions1.dll
+/Users/aisha/Projects/conditions1/conditions1/obj/Debug/net6.0/conditions1.pdb
+/Users/aisha/Projects/conditions1/conditions1/obj/Debug/net6.0/conditions1.genruntimeconfig.cache
+/Users/aisha/Projects/conditions1/conditions1/obj/Debug/net6.0/ref/conditions1.dll
